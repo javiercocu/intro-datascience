@@ -7,5 +7,5 @@ Loguearse con cuenta Google
 
 Crear un notebook de python 3
 
-Ingresar en la celda del notebook
-!git clone https://github.com/javiercocu/intro-datascience
+En el menu de buscar File -> Open
+En la pestaña de github ingresar https://github.com/javiercocu/intro-datascience/
